@@ -1,3 +1,3 @@
 # Landing-Page-AgriPure-Mobile
 
-Pagina Desplegada: https://agripure-landing-page.netlify.app
+lINK DEL LANDING PAGE DESPLEGADO: https://agripure-landing-page.netlify.app
