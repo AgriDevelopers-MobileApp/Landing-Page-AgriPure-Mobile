@@ -8,3 +8,6 @@ Version 2 (01/06/2023):
 Version 3 (12/06/2023):
 - Se arreglo el formato responsive de la aplicacion, antes se mostraba el texto desproporcionado y una linea blanca al lado derecho, esto fue solucionado, ademas se agrego un espacio para el video about the team.
 Link de la LANDING PAGE desplegada: https://agripure-landing-page.netlify.app
+
+Version 4 (20/06/2023):
+- Se agrego el Video About the Team, es caso el navegador no le permita visualizar el video, se encuentra en el siguiente enlace: https://youtu.be/nrfFi-YPiaM
