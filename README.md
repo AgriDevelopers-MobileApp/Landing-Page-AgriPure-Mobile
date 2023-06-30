@@ -12,5 +12,9 @@ Link de la LANDING PAGE desplegada: https://agripure-landing-page.netlify.app
 Version 4 (20/06/2023):
 - Se agrego el Video About the Team
 
-  Version 5 (21/06/2023):
+Version 5 (21/06/2023):
 - Se agrego el Video About the Product
+
+Version 6 (30/06/2023):
+- Se han agrandado y mejorado la posicion de texto, imagenes, textbox y videos.
+
